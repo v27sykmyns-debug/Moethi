@@ -2,6 +2,6 @@ include <stdio.h>
 
 int main(){
   
-   int  = 0;
+   int  = 2;
    return 0;
 }
